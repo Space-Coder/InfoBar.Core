@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>InfoBar.Core</Title>
+    <Authors>Spacecoder</Authors>
+    <Description>Simple info bar in Windows 11 style (.NET)
+
+</Description>
+    <Copyright>Spacecoder</Copyright>
+  </PropertyGroup>
+
+</Project>
